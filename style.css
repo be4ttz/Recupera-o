@@ -1,7 +1,22 @@
-body{
-    background-color: #EBECEE;
+header{
+    background-color: #e5abff;
 
 }
-h1{
-    background-color: rgb(201, 156, 243);
+main{
+    background-color: rgb(198, 0, 248);
+}
+body{
+    color: rgb(0, 0, 0);
+    margin: 1cm;
+}
+h1{ 
+    text-align: left;
+}
+.lema{
+    text-align: center;
+    padding: 30px;
+}
+.autor{
+    text-align: right;
+    font-size: 20px;
 }
